@@ -1,0 +1,13 @@
+---
+title: "MarkdownFun"
+author: "Hoffman"
+date: "2024-08-01"
+output: github_document
+---
+
+A single sentence
+
+```{r}
+1 + 2
+```
+
